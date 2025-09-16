@@ -1,7 +1,7 @@
 
   # Academic Portal Design
 
-  This is a code bundle for Academic Portal Design. The original project is available at https://www.figma.com/design/uouREcm2JMVtt2aASbjrOo/Academic-Portal-Design.
+  This is a code bundle for Academic Portal Design. 
 
   ## Running the code
 
